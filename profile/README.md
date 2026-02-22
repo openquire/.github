@@ -5,7 +5,7 @@
 
 # 🏢 openQuire
 
-> **Building open-source tools for thought.**  
+> **Building open-source note-taking application**  
 > Privacy-first, community-driven, and designed for the future of knowledge management.
 
 ---
