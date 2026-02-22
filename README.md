@@ -2,6 +2,7 @@
   <img src="assets/header.png" alt="openQuire logo"/>
 </p>
 
+
 # 🏢 openQuire
 
 > **Building open-source tools for thought.**  
