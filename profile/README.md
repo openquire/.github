@@ -67,10 +67,10 @@ Stay updated and connect with other users:
 
 | Platform | Link |
 |----------|------|
-| 🐦 Twitter/X | `[Link]` |
-| 💬 Discord/Slack | `[Link]` |
-| 📧 Email | `[contact@openquire.org]` |
-| 🌐 Website | `[Link]` |
+| 🐦 Twitter/X | `[https://x.com/openquirenote]` |
+| 💬 Discord/Slack | `[https://discord.gg/TPPkQvnj]` |
+| 📧 Email | `[openquire@proton.me]` |
+| 🌐 Website | `[github.com/openquire]` |
 
 ---
 
