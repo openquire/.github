@@ -44,9 +44,10 @@ We also maintain smaller libraries and tools to support the ecosystem.
 We welcome contributors of all skill levels! Whether you're a developer, designer, writer, or tester, there's a place for you here.
 
 ### How to Get Started
-1. **Read the Code of Conduct:** `[Link to CODE_OF_CONDUCT.md]`
-2. **Check Open Issues:** Look for tags like `good first issue` or `help wanted`.
-3. **Join the Discussion:** Have an idea? Start a conversation in `[GitHub Discussions]`.
+1. **Read the Code of Conduct:** `[CODE_OF_CONDUCT.md]`
+2. **Read Contributing Policy** `[CONTRIBUTING.md]`
+3. **Check Open Issues:** Look for tags like `good first issue` or `help wanted`.
+4. **Join the Discussion:** Have an idea? Start a conversation in `[GitHub Discussions]`.
 
 ### Contribution Guidelines
 - 🐛 **Bug Reports:** Please use our issue template.
