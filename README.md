@@ -72,4 +72,4 @@ Stay updated and connect with other users:
 
 All projects under the **openQuire** organization are open-source. Unless specified otherwise, code is licensed under the **MIT License**.
 
-© 2024 openQuire Organization. Built with ❤️ by the community.
+© 2026 openQuire Organization. Built with ❤️ by the community.
