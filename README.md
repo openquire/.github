@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" alt="openQuire Logo"/>
+  <img src="header.png" alt="openQuire header"/>
 </p>
 
 # 🏢 openQuire
